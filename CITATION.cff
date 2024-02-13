@@ -1,0 +1,42 @@
+# This CITATION.cff file was generated with cffinit.
+
+cff-version: 1.2.0
+title: geometric_characterization
+message: >-
+  If you use this software, please cite it using the
+  metadata from this file.
+type: software
+authors:
+  - affiliation: The University of Texas at Austin
+    orcid: 'https://orcid.org/0000-0000-0000-0000'
+    email: cinarturhan@utexas.edu
+    given-names: Cinar
+    family-names: Turhan
+  - given-names: 'Bernard '
+    family-names: Chang
+    email: bcchang@utexas.edu
+    affiliation: The University of Texas at Austin
+    orcid: 'https://orcid.org/0000-0000-0000-0000'
+  - given-names: Ali
+    family-names: Mohamed
+    email: ali.mohamed@austin.utexas.edu
+    affiliation: The University of Texas at Austin
+    orcid: 'https://orcid.org/0000-0000-0000-0000'
+identifiers:
+  - type: doi
+    value: 10.1234/zenodo.1234
+    description: To be filled
+repository-code: 'https://github.com/orgs/digital-porous-media/repositories'
+url: >-
+  https://github.com/digital-porous-media/geometric_characterization
+abstract: >-
+  Set of Jupyter Notebooks for geometric characterization of
+  porous media images from the DPM Portal.
+keywords:
+  - minkowski
+  - porous-media
+  - 3d-subset
+  - digital-rocks
+license: MIT
+version: '1.0'
+date-released: '2024-02-14'
