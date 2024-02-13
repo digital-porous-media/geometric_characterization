@@ -1,0 +1,16 @@
+numpy
+pandas
+tifffile
+wget
+matplotlib
+porespy
+tqdm
+scipy
+scikit-image
+quantimpy
+pyvista[all]
+notebook
+ipywidgets
+pyarrow
+connected-components-3d
+trimesh
