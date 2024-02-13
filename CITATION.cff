@@ -3,15 +3,15 @@
 cff-version: 1.2.0
 title: geometric_characterization
 message: >-
-  If you use this software, please cite it using the
+  If you use this software, you can cite it using the
   metadata from this file.
 type: software
 authors:
-  - affiliation: The University of Texas at Austin
-    orcid: 'https://orcid.org/0000-0000-0000-0000'
-    email: cinarturhan@utexas.edu
-    given-names: Cinar
+  - given-names: Cinar
     family-names: Turhan
+    email: cinarturhan@utexas.edu
+    affiliation: The University of Texas at Austin
+    orcid: 'https://orcid.org/0000-0000-0000-0000'
   - given-names: 'Bernard '
     family-names: Chang
     email: bcchang@utexas.edu
@@ -38,5 +38,5 @@ keywords:
   - 3d-subset
   - digital-rocks
 license: MIT
-version: '1.0'
+version: '1.0.0'
 date-released: '2024-02-14'
