@@ -67,11 +67,5 @@
                 "name": "The University of Texas at Austin"
             }
         }
-    ],
-    "contributor": [
-        {
-            "@type": "Person",
-            "givenName": "https://orcid.org/0000-0000-0000-0000"
-        }
     ]
 }
