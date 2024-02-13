@@ -37,9 +37,9 @@
         {
             "@type": "Person",
             "@id": "https://orcid.org/0000-0000-0000-0000",
-            "givenName": "Cinar",
-            "familyName": "Turhan",
-            "email": "cinarturhan@utexas.edu",
+            "givenName": "Masa",
+            "familyName": "Prodanovic",
+            "email": "masha@utexas.edu",
             "affiliation": {
                 "@type": "Organization",
                 "name": "The University of Texas at Austin"
@@ -51,6 +51,17 @@
             "givenName": "Bernard",
             "familyName": "Chang",
             "email": "bcchang@utexas.edu",
+            "affiliation": {
+                "@type": "Organization",
+                "name": "The University of Texas at Austin"
+            }
+        },
+        {
+            "@type": "Person",
+            "@id": "https://orcid.org/0000-0000-0000-0000",
+            "givenName": "Cinar",
+            "familyName": "Turhan",
+            "email": "cinarturhan@utexas.edu",
             "affiliation": {
                 "@type": "Organization",
                 "name": "The University of Texas at Austin"
