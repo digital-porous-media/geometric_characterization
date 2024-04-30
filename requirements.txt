@@ -7,7 +7,6 @@ porespy
 tqdm
 scipy
 scikit-image
-quantimpy
 pyvista[all]
 notebook
 ipywidgets
