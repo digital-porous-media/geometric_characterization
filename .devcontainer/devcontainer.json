@@ -1,12 +1,15 @@
 {
-  "name": "Python",
-  "dockerFile": "Dockerfile",
+  "build": {
+        // Path is relative to the devcontainer.json file.
+        "dockerfile": "Dockerfile"
+    },
 
-  "settings": {
-    "terminal.integrated.shell.linux": "/bin/bash"
+  "customizations": {
+    "vscode": {
+      "extensions": ["Python", "Jupyter"]
+    }
   },
-
-  "extensions": ["ms-python.python"],
+  
   "features": {
       "ghcr.io/devcontainers/features/go:1": {
           "version": "1.18"
@@ -28,6 +31,6 @@
     "-y",
     "libgl1"
   ],
-  
-  "postCreateCommand": "ldconfig && cd /workspace && pip install -r requirements.txt"
+
+  "postCreateCommand": "pip3 install --user -r requirements.txt"
 }
