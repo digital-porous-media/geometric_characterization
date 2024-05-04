@@ -11,9 +11,6 @@
   },
   
   "features": {
-      "ghcr.io/devcontainers/features/go:1": {
-          "version": "1.18"
-      },
       "ghcr.io/devcontainers/features/docker-in-docker:1": {
           "version": "latest",
           "moby": true
@@ -22,15 +19,5 @@
       "version": "3.11",
       "installJupyterlab ": true
       }
-  },
-  
-  "runArgs": [
-    "-v", "${env:HOME}/.gitconfig:/root/.gitconfig",
-    "apt-get",
-    "install",
-    "-y",
-    "libgl1"
-  ],
-
-  "postCreateCommand": "pip3 install --user -r requirements.txt"
+  }
 }
