@@ -1,6 +1,6 @@
 {
   "image": "mcr.microsoft.com/devcontainers/universal:2",
   "runArgs": [
-  "apt-get update && apt-get install -y libgl1-mesa-glx xvfb"
+  "apt-get update && apt-get install -y libgl1-mesa-glx"
 ]
 }
