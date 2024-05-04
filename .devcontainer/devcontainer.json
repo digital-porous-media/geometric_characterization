@@ -4,6 +4,5 @@
   "ghcr.io/devcontainers/features/python:1": {"version":"3.11"}
   },
   
-  "postCreateCommand": "sudo apt install libgl1-mesa-glx xvfb",
-  "postStartCommand": "pip install -r 'requirements.txt'"
+  "postCreateCommand": "sudo apt update && sudo apt install libgl1-mesa-glx xvfb && pip install -r 'requirements.txt'"
 }
