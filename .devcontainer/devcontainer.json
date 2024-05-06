@@ -11,7 +11,7 @@
       "extensions": ["ms-python.python","ms-toolsai.jupyter"]
     }
   },
-  "onCreateCommand": "sudo apt update && sudo apt install -y --allow-downgrades libgl1-mesa-glx && pip install -r 'requirements.txt' && pip install -e quantimpy/ && python get_data.py"
+  "onCreateCommand": "sudo apt update && sudo apt install -y --allow-downgrades libgl1-mesa-glx && pip install -r 'requirements.txt' && pip install -e quantimpy-0.4.6/ && python get_data.py"
   //"postCreateCommand": "python get_data.py"
 
 }
