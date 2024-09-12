@@ -27,10 +27,10 @@ authors:
     email: masha@utexas.edu
     affiliation: The University of Texas at Austin
     orcid: 'https://orcid.org/0000-0000-0000-0000'
-identifiers:
-  - type: doi
-    value: 10.1234/zenodo.1234
-    description: To be filled
+#identifiers:
+#  - type: doi
+#    value: 10.1234/zenodo.1234
+#    description: To be filled
 repository-code: 'https://github.com/orgs/digital-porous-media/repositories'
 url: >-
   https://github.com/digital-porous-media/geometric_characterization
