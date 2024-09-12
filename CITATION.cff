@@ -7,11 +7,6 @@ message: >-
   metadata from this file.
 type: software
 authors:
-  - given-names: Masa
-    family-names: Prodanovic
-    email: masha@utexas.edu
-    affiliation: The University of Texas at Austin
-    orcid: 'https://orcid.org/0000-0000-0000-0000'
   - given-names: 'Bernard '
     family-names: Chang
     email: bcchang@utexas.edu
@@ -21,10 +16,15 @@ authors:
     family-names: Turhan
     email: cinarturhan@utexas.edu
     affiliation: The University of Texas at Austin
-    orcid: 'https://orcid.org/0000-0000-0000-0000'
+    orcid: 'https://orcid.org/0000-0003-2533-7016'
   - given-names: Ali
     family-names: Mohamed
     email: ali.mohamed@austin.utexas.edu
+    affiliation: The University of Texas at Austin
+    orcid: 'https://orcid.org/0000-0000-0000-0000'
+  - given-names: Masa
+    family-names: Prodanovic
+    email: masha@utexas.edu
     affiliation: The University of Texas at Austin
     orcid: 'https://orcid.org/0000-0000-0000-0000'
 identifiers:
